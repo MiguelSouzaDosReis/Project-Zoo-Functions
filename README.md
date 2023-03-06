@@ -1,4 +1,4 @@
-# Project-Zoo-Functions
+# Project Zoo Functions
 
 Neste projeto solucionei problemas lógicos do javaScript, com o objetivo de aprender a usar de forma conjunta as Higher Order Functions e utilizar as Higher Order Functions para manipular e criar arrays. Todo código que fiz nesse projeto pode ser encontrados na pasta src
 
